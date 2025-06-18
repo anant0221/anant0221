@@ -31,8 +31,6 @@ I'm open to collaborating on:
 
 ---
 
-Thank you for visiting my profile! Let’s connect and build something impactful together.
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,10 +43,8 @@ Thank you for visiting my profile! Let’s connect and build something impactful
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-<!--
-**anant0221/anant0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Thank you for visiting my profile! Let’s connect and build something impactful together.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
