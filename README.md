@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! I'm Anant Gupta — an MSc candidate at SETU, Ireland, with a unique blend of finance knowledge and technical expertise. With a background in computer applications and hands-on experience in Java full-stack development and financial analysis, I aim to bridge the gap between business strategy and technology.
+Hi there! I'm Anant Gupta — a MSc candidate at SETU, Ireland, with a unique blend of finance knowledge and technical expertise. With a background in computer applications and hands-on experience in Java full-stack development and financial analysis, I aim to bridge the gap between business strategy and technology.
 
 ## Skills & Expertise
 - **Finance & Business**: Investment Banking, Financial Analysis, Equity Research, Financial Reporting, M&A, Corporate Finance  
